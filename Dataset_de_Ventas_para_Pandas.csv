@@ -1,0 +1,101 @@
+order_id,customer_name,gender,age,country,order_date,product,category,unit_price,quantity,payment_method,delivery_time_days,satisfaction_rating,returned
+1000,Pelayo Palacio,Other,45,Mauricio,2024-03-28,Camisa,Ropa,42.47,2,Transferencia,1,3,FALSE
+1001,Olimpia Lidia Sanmartín Bosch,Other,31,Senegal,2024-05-23,Zapatillas Deportivas,Ropa,89.06,5,Tarjeta,4,3,FALSE
+1002,Felipe Tomas Gárate,Female,49,Nicaragua,2024-11-12,Camisa,Ropa,39.91,2,Tarjeta,8,4,FALSE
+1003,Cecilio Pelayo Codina,Female,32,Dominicana,2024-11-02,Licuadora,Hogar,77.03,5,Transferencia,9,1,TRUE
+1004,Epifanio Zurita Anaya,Male,27,Rumania,2025-03-04,Smartphone,Electrónica,304.04,3,Transferencia,1,1,TRUE
+1005,Isidoro Bayona Gomila,Female,42,Sudán,2024-08-30,Silla de oficina,Hogar,145.59,1,Transferencia,8,5,TRUE
+1006,Soledad Pagès-Mesa,Female,31,Polonia,2023-10-11,Smartphone,Electrónica,299.48,5,Efectivo,2,5,TRUE
+1007,Yolanda Ugarte Gimeno,Female,64,Burundi,2024-10-23,Aspiradora,Hogar,129.29,1,Efectivo,5,2,FALSE
+1008,Álvaro Luís-Nieto,Male,54,San Vicente y las Granadinas,2023-05-25,Silla de oficina,Hogar,150.38,4,Transferencia,2,3,FALSE
+1009,Reinaldo Tur Peláez,Other,51,Botswana,2025-02-20,Smartphone,Electrónica,303.5,2,Tarjeta,7,4,TRUE
+1010,Rómulo del Montesinos,Male,28,Finlandia,2024-12-03,Licuadora,Hogar,83.84,2,Transferencia,8,3,FALSE
+1011,Marianela Cáceres Boix,Other,31,Chipre,2023-07-24,Smartphone,Electrónica,298.88,3,Tarjeta,9,5,TRUE
+1012,Viviana Sevillano Peñalver,Female,24,Grecia,2024-07-11,Smartphone,Electrónica,300.4,2,Efectivo,7,3,TRUE
+1013,Flavio Pelayo,Other,36,Zambia,2024-06-10,Zapatillas Deportivas,Ropa,86.76,5,Tarjeta,2,4,TRUE
+1014,Clímaco del Murillo,Other,63,Uzbekistán,2023-07-23,Silla de oficina,Hogar,145.6,4,Efectivo,10,5,TRUE
+1015,Tecla Asensio Crespi,Other,70,Guinea,2023-12-20,Camisa,Ropa,37.29,3,Tarjeta,5,5,FALSE
+1016,Chuy Zaragoza Ordóñez,Male,52,Noruega,2024-02-22,Silla de oficina,Hogar,147.79,3,Efectivo,8,5,TRUE
+1017,Adán Rivero Baquero,Male,57,Finlandia,2024-05-14,Zapatillas Deportivas,Ropa,90.1,3,Efectivo,9,1,TRUE
+1018,Lucas Báez Contreras,Other,70,Japón,2024-10-13,Zapatillas Deportivas,Ropa,88.68,4,Efectivo,3,2,TRUE
+1019,Concepción Gámez Izaguirre,Other,70,Lesotho,2024-07-14,Pantalón Jean,Ropa,45.23,4,Transferencia,5,5,FALSE
+1020,Espiridión Bilbao-Uría,Male,18,Suecia,2023-04-24,Silla de oficina,Hogar,153.42,2,Transferencia,9,1,FALSE
+1021,Primitivo Diéguez,Male,29,República Democrática del Congo,2023-08-03,Tablet,Electrónica,204.82,2,Efectivo,3,4,FALSE
+1022,Berta Badía-Carrera,Other,62,Etiopía,2024-02-20,Camisa,Ropa,44.88,4,Tarjeta,8,4,FALSE
+1023,Saturnina Peinado Nadal,Other,52,Chad,2024-06-23,Smartphone,Electrónica,296.42,5,Transferencia,1,4,FALSE
+1024,Úrsula Bayo Adán,Male,65,Suiza,2023-05-21,Aspiradora,Hogar,133.02,3,Efectivo,10,3,TRUE
+1025,Rolando del Galván,Other,18,Dominicana,2024-02-07,Colchón,Hogar,496.02,3,Tarjeta,9,3,TRUE
+1026,Alba Gras Martinez,Female,47,Tuvalu,2024-12-12,Silla de oficina,Hogar,145.72,3,Tarjeta,3,3,TRUE
+1027,Anselmo Flavio Leal Alcalá,Other,43,Federación de Rusia,2023-07-02,Silla de oficina,Hogar,154.29,4,Transferencia,9,2,TRUE
+1028,Miriam Bravo,Male,41,Bélgica,2023-07-05,Tablet,Electrónica,204.31,5,Efectivo,7,3,TRUE
+1029,Amaro Cifuentes Pastor,Female,32,Djibouti,2024-07-08,Zapatillas Deportivas,Ropa,87.29,1,Transferencia,9,5,TRUE
+1030,Osvaldo Carrera,Female,40,Bhután,2025-01-09,Auriculares Bluetooth,Electrónica,59.55,3,Efectivo,7,1,FALSE
+1031,Quirino Casals Galán,Female,20,Croacia,2024-04-20,Auriculares Bluetooth,Electrónica,60.11,5,Efectivo,9,1,TRUE
+1032,Prudencio Narváez Diego,Male,67,Tailandia,2024-02-13,Zapatillas Deportivas,Ropa,87.09,3,Tarjeta,10,1,TRUE
+1033,Feliciana Herrero Delgado,Male,34,Guinea,2024-11-02,Smartphone,Electrónica,298.13,1,Tarjeta,7,5,FALSE
+1034,Leonor Flor Gámez,Female,30,Kazajstán,2023-11-07,Zapatillas Deportivas,Ropa,92.58,4,Tarjeta,4,5,TRUE
+1035,Victoriano Bartolomé Cerdá,Male,36,Cuba,2023-06-02,Licuadora,Hogar,82.54,1,Efectivo,7,5,FALSE
+1036,Luis Natalio Cabo Zamora,Male,42,Islas Marshall,2023-11-05,Silla de oficina,Hogar,151.12,2,Transferencia,7,3,TRUE
+1037,Maristela del Zamorano,Female,29,Palau,2024-11-27,Pantalón Jean,Ropa,45.58,1,Efectivo,4,4,TRUE
+1038,Clementina Soler Alfonso,Male,48,Mongolia,2024-09-03,Camisa,Ropa,39.68,5,Transferencia,2,2,FALSE
+1039,Abel Roda-Losada,Other,69,Senegal,2025-04-10,Pantalón Jean,Ropa,50.52,5,Tarjeta,7,2,TRUE
+1040,Morena Blazquez,Female,30,Guatemala,2024-01-27,Colchón,Hogar,500.29,4,Tarjeta,1,5,TRUE
+1041,Juan José Codina Gómez,Male,27,Mauricio,2025-02-10,Tablet,Electrónica,196.66,1,Transferencia,3,5,TRUE
+1042,Manu Puga Zaragoza,Female,27,Mali,2024-02-13,Auriculares Bluetooth,Electrónica,62.49,4,Tarjeta,5,3,FALSE
+1043,María Belén Blanes Carranza,Female,25,Uruguay,2023-06-13,Pantalón Jean,Ropa,50.78,1,Transferencia,5,1,TRUE
+1044,María Manuela Albina Vélez Ibañez,Other,55,Tailandia,2025-04-02,Licuadora,Hogar,76.59,2,Tarjeta,4,4,FALSE
+1045,Iván Bayón Cantón,Male,62,Indonesia,2025-02-07,Pantalón Jean,Ropa,51.54,1,Transferencia,4,3,TRUE
+1046,Alcides Bas Toro,Other,70,ex República Yugoslava de Macedonia,2023-11-11,Tablet,Electrónica,197.25,3,Tarjeta,5,2,FALSE
+1047,Isaura Alcaraz Crespo,Other,42,Eritrea,2024-11-22,Zapatillas Deportivas,Ropa,94.23,1,Tarjeta,8,2,FALSE
+1048,Ale Porta Moll,Other,48,Papua Nueva Guinea,2025-04-02,Silla de oficina,Hogar,149.56,1,Efectivo,4,4,TRUE
+1049,Maricela Blanch Morales,Female,27,Finlandia,2024-01-31,Pantalón Jean,Ropa,50.87,4,Efectivo,9,2,TRUE
+1050,María Pilar Petrona Ocaña Robledo,Other,38,China,2024-09-18,Pantalón Jean,Ropa,52.73,3,Transferencia,4,1,FALSE
+1051,Juan Francisco Cerdá Vidal,Other,43,Kazajstán,2023-09-02,Colchón,Hogar,499,3,Tarjeta,6,3,FALSE
+1052,Federico Zamora Alfaro,Other,61,Congo,2024-10-20,Smartphone,Electrónica,295.93,5,Transferencia,4,5,FALSE
+1053,Néstor Saura Arjona,Male,22,Argelia,2023-06-11,Tablet,Electrónica,198.51,3,Transferencia,4,3,TRUE
+1054,Javiera Roldán,Other,31,San Marino,2024-09-19,Camisa,Ropa,38.5,2,Efectivo,4,2,FALSE
+1055,Eloy Valera Alemany,Male,32,Djibouti,2023-10-06,Colchón,Hogar,500.57,1,Efectivo,6,1,TRUE
+1056,Florencio Valenciano Fabregat,Other,18,Lesotho,2024-05-27,Aspiradora,Hogar,126.96,4,Efectivo,6,3,TRUE
+1057,Palmira de Rosado,Female,63,Eritrea,2023-09-05,Colchón,Hogar,496.32,4,Tarjeta,4,3,FALSE
+1058,Nacio Izquierdo Monreal,Female,67,Mónaco,2023-11-01,Colchón,Hogar,503.43,2,Tarjeta,8,2,TRUE
+1059,Montserrat Niño Román,Male,42,Georgia,2024-02-01,Colchón,Hogar,495.32,1,Tarjeta,4,1,FALSE
+1060,Eloísa Arce Estrada,Female,48,Vanuatu,2024-10-16,Smartphone,Electrónica,304.97,5,Tarjeta,8,2,TRUE
+1061,Adoración Pagès Iborra,Other,30,Bosnia y Herzegovina,2024-03-08,Silla de oficina,Hogar,152.89,3,Efectivo,1,4,FALSE
+1062,Abigaíl Herrera Elías,Male,61,Rumania,2024-12-07,Aspiradora,Hogar,134.09,5,Transferencia,2,4,TRUE
+1063,Glauco Arribas Zabaleta,Female,46,Senegal,2023-12-03,Colchón,Hogar,504.93,2,Transferencia,1,4,FALSE
+1064,José Mari Juárez-Pedraza,Female,69,Indonesia,2024-07-28,Pantalón Jean,Ropa,53.43,2,Transferencia,2,5,TRUE
+1065,Aurelia Alberola Ledesma,Other,38,Eslovenia,2024-11-27,Aspiradora,Hogar,132.26,4,Transferencia,1,1,FALSE
+1066,Amado Montserrat-Egea,Female,28,Brasil,2024-05-04,Licuadora,Hogar,75.29,3,Transferencia,4,4,FALSE
+1067,Marcos Barriga Posada,Other,63,Gabón,2024-06-22,Silla de oficina,Hogar,146.8,1,Tarjeta,7,1,TRUE
+1068,Adela Pablo Mancebo,Male,66,San Marino,2023-09-20,Tablet,Electrónica,202.2,3,Efectivo,4,1,TRUE
+1069,Dora Tudela,Male,34,Kirguistán,2024-01-13,Colchón,Hogar,495.12,2,Efectivo,4,1,TRUE
+1070,Bartolomé García Echevarría,Female,67,Bangladesh,2023-08-09,Tablet,Electrónica,200.09,3,Transferencia,4,4,TRUE
+1071,Herberto Esparza Cuevas,Other,50,Uruguay,2023-07-04,Tablet,Electrónica,195.8,5,Transferencia,9,2,TRUE
+1072,Amada Cerdá Hierro,Male,68,Sudán del Sur,2023-11-10,Pantalón Jean,Ropa,48.93,5,Transferencia,5,1,FALSE
+1073,Concha Bermúdez Cuevas,Female,31,Paraguay,2023-07-27,Tablet,Electrónica,203.88,3,Tarjeta,10,1,FALSE
+1074,Florencio Cuervo,Other,68,Maldivas,2024-02-29,Tablet,Electrónica,196.69,1,Transferencia,7,5,FALSE
+1075,Anacleto Velasco Galindo,Female,34,Albania,2024-09-23,Silla de oficina,Hogar,148.09,3,Tarjeta,10,5,TRUE
+1076,Sebastian Abraham Villalobos Rubio,Male,54,Túnez,2023-11-12,Tablet,Electrónica,198.4,5,Tarjeta,7,4,TRUE
+1077,Salud Rafaela Cruz Gordillo,Male,22,República Popular Democrática de Corea,2025-01-25,Auriculares Bluetooth,Electrónica,58.22,4,Tarjeta,3,2,FALSE
+1078,Asdrubal Ferrándiz Rincón,Other,64,Islas Salomón,2025-02-26,Auriculares Bluetooth,Electrónica,60.3,4,Efectivo,9,3,TRUE
+1079,Elodia de Falcón,Female,24,San Vicente y las Granadinas,2023-07-14,Zapatillas Deportivas,Ropa,90.06,5,Efectivo,10,2,TRUE
+1080,Joaquín Crespo-Montenegro,Male,51,Sudán,2024-08-04,Camisa,Ropa,41.37,3,Tarjeta,10,1,FALSE
+1081,Bonifacio del Carvajal,Female,37,Samoa,2024-07-04,Licuadora,Hogar,78.3,3,Tarjeta,1,4,FALSE
+1082,Marina Atienza Codina,Female,32,Santa Lucía,2024-01-29,Smartphone,Electrónica,298.55,4,Tarjeta,6,3,FALSE
+1083,Cleto Villalonga Salcedo,Female,70,Chile,2024-04-25,Zapatillas Deportivas,Ropa,85.63,5,Tarjeta,1,3,TRUE
+1084,Basilio Larrañaga,Male,18,Hungría,2025-03-27,Tablet,Electrónica,195.53,1,Tarjeta,3,5,FALSE
+1085,Severiano Solano Díez,Other,50,Brasil,2023-05-12,Aspiradora,Hogar,127.89,2,Tarjeta,2,1,FALSE
+1086,Valero del Menéndez,Female,61,Estados Unidos de América,2025-01-23,Zapatillas Deportivas,Ropa,87.98,2,Tarjeta,8,1,FALSE
+1087,Morena Pinto Hernandez,Other,47,Bulgaria,2024-02-17,Tablet,Electrónica,198.1,3,Tarjeta,10,1,FALSE
+1088,Isabela Paniagua,Other,36,Tuvalu,2024-06-24,Colchón,Hogar,495.19,5,Transferencia,8,4,TRUE
+1089,Zoraida Mur,Other,55,Maldivas,2025-03-27,Colchón,Hogar,495.27,1,Efectivo,10,3,FALSE
+1090,Celestina Adadia,Male,67,Kirguistán,2025-02-18,Zapatillas Deportivas,Ropa,92.57,4,Transferencia,4,1,TRUE
+1091,Petrona Galan Echevarría,Male,32,Turkmenistán,2025-04-13,Zapatillas Deportivas,Ropa,91.86,2,Transferencia,5,1,TRUE
+1092,Alma Hurtado Morcillo,Other,22,Tuvalu,2024-08-25,Smartphone,Electrónica,304.25,5,Efectivo,1,2,TRUE
+1093,Encarnación Borrego Morante,Female,38,República de Moldova,2024-07-10,Smartphone,Electrónica,296.46,5,Transferencia,10,1,TRUE
+1094,Bienvenida de Ferrándiz,Male,28,Malawi,2023-10-17,Aspiradora,Hogar,131.1,1,Transferencia,5,5,TRUE
+1095,Demetrio Campos Lara,Female,22,Timor-Leste,2023-11-30,Smartphone,Electrónica,297.88,3,Transferencia,9,2,FALSE
+1096,Andrea Verdú Verdú,Female,53,Azerbaiyán,2023-09-08,Tablet,Electrónica,198.97,5,Transferencia,9,5,FALSE
+1097,Eleuterio Escudero,Female,57,Rumania,2025-03-27,Colchón,Hogar,497.04,1,Transferencia,10,2,FALSE
+1098,Florencia Acevedo,Other,38,Japón,2024-08-15,Silla de oficina,Hogar,149.93,2,Transferencia,3,2,TRUE
+1099,Leticia María José Aznar Torrens,Other,49,República Dominicana,2025-01-17,Camisa,Ropa,40.55,4,Transferencia,3,1,FALSE
